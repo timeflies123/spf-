@@ -7,6 +7,7 @@ python库：
 ``argparse``    
 ``os``    
 ``python-docx``    
+**注意有的linux机器无法发送邮件，使用本项目前请确认linux机器可以对漏洞进行利用**    
 
 脚本使用方法：  
 `参数  
